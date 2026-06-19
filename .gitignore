@@ -4,3 +4,7 @@ __pycache__/
 .vscode/
 dist/
 *.pyc
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
