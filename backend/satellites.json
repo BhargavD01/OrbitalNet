@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "SAT-001",
+    "battery": 88,
+    "temperature": 42,
+    "signal": 95,
+    "status": "Healthy"
+  },
+  {
+    "id": 2,
+    "name": "SAT-002",
+    "battery": 61,
+    "temperature": 51,
+    "signal": 78,
+    "status": "Warning"
+  },
+  {
+    "id": 3,
+    "name": "SAT-003",
+    "battery": 23,
+    "temperature": 68,
+    "signal": 40,
+    "status": "Critical"
+  }
+]
